@@ -4,4 +4,4 @@ odeint is a highly flexible library for solving ordinary differential equations.
 
 # Note about this fork
 
-Used in MOOSE simulator, experimental branch `boost`. 
+Used in MOOSE simulator, experimental branch `boost`. It is forked to track changes to upstream library.
